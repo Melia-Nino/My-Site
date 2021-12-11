@@ -1,0 +1,21 @@
+/* body {
+background-image: url(Cow.jpg);
+background-repeat:no-repeat;
+background-size: 100% 100%;
+
+} */
+
+
+
+
+a{
+    color: mediumvioletred;
+    text-decoration: none;
+}
+a:active {
+    color:olive
+}
+a:hover{
+    color:darkblue;
+    text-decoration:underline;
+}
